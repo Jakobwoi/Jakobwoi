@@ -1,4 +1,4 @@
-- I’m Jakob Wittennek, a High School student from Austria.
+- I’m Jakob Woittennek, a High School student from Austria.
 - My interests are hardware engeneering, microcontroller programming and 3D-Printing.
 - I’m currently learning on PCB design in KiCAD.
 - You can reach me under online@woittennek.net
